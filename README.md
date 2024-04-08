@@ -1,7 +1,6 @@
-### Como vai?... 👋
+### Sup... 👋
 
-✒️ Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.
-
+✒️ Programmers and artists are the only professionals who have their own profession as a hobby.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
